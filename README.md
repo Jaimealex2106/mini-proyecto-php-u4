@@ -25,8 +25,8 @@ No usa base de datos, archivos ni formularios: la información se guarda únicam
 
 ## Sitio publicado
 
-- 🌐 Sitio: `https://TU-SUBDOMINIO.infinityfreeapp.com` *(reemplazar con el link real)*
-- 🔗 Repositorio: `https://github.com/USUARIO/mini-proyecto-php-u4` *(reemplazar con el link real)*
+- 🌐 Sitio: `https://miniproyecto-u4.freedev.app/` 
+- 🔗 Repositorio: `https://github.com/Jaimealex2106/mini-proyecto-php-u4` 
 
 ## Temas PHP implementados
 
